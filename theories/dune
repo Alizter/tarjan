@@ -1,0 +1,7 @@
+(coq.theory
+ (name mathcomp.tarjan)
+ (package coq-mathcomp-tarjan)
+ (flags -w -notation-overridden)
+ (modules :standard \ tarjan_nocolor_optim)
+ (theories mathcomp.ssreflect mathcomp.fingroup))
+
